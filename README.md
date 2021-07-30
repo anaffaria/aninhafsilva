@@ -34,6 +34,6 @@
   <a href="https://www.linkedin.com/in/ana-caroline-f-da-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" >
   </a> 
   
- ![Snake animation](https://github.com/aninhafsilva/aninhafsilva/blob/main/github-user-contribution2.svg)
+ ![Snake animation](https://github.com/aninhafsilva/aninhafsilva/blob/main/github-user-contribution.svg)
   
 </div>
