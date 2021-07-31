@@ -19,16 +19,17 @@
 
  
   ##
-
-<div style="display: inline_block">
-  <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Ana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alight="center" alt="Ana-Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
+  | ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
+  | ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) 
+  | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) 
+  | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+  | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  | ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+  
   <img align="right" alt="Ana-gif" src="https://media.giphy.com/media/7DxEk8Nm2fOjy06jtP/giphy.gif">
-</div>
   
   ##
  
