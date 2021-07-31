@@ -17,11 +17,13 @@ jobs:
           github_user_name: aninhafsilva
           svg_out_path: dist/https://github.com/aninhafsilva/aninhafsilva/blob/main/.github/workflows/github-user-contribution.svg
           colorEmpty: ebedf0
-          colorSnake: purple
+          colorSnake: blue
           
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
+          colorEmpty: ebedf0
+          colorSnake: blue
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
