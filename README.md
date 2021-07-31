@@ -34,6 +34,6 @@
   <a href="https://www.linkedin.com/in/ana-caroline-f-da-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" >
   </a> 
   
-  <img src="https://github.com/aninhafsilva/aninhafsilva/blob/main/.github/workflows/github-user-contribution.svg" width="720"/>
+  <img src="https://github.com/aninhafsilva/aninhafsilva/blob/main/.github/workflows/github-user-contribution.svg" width="700"/>
  
 </div>
