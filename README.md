@@ -1,9 +1,12 @@
-### Olá eu sou a Ana Caroline 😊
+### Hi! I'm Ana Caroline 😊
   ## 
   
-- 🔭 Hoje estou trabalhando com QA ...
-- 🌱 Estudando Typescript
-- 😄 Pronouns: ela/dela
+- 🔭 I'm work with Quality Assurence...
+- 🌱 Studying Typescript...
+- 😄 Pronouns: she/her...
+- 👾 hobbies: Games 🎮, Animes🤍 , Reading 📖... 
+- 
+
 ## 
  
 
